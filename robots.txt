@@ -1,0 +1,10 @@
+# robots.txt — AceroNova
+# https://acieronova.com
+
+User-agent: *
+Allow: /
+
+Disallow: /css/
+Disallow: /js/
+
+Sitemap: https://acieronova.com/sitemap.xml
