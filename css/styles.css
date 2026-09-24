@@ -1276,7 +1276,7 @@ p {
   }
 
   .hero__media {
-    background-image: url('/assets/img/hero-poster.jpg');
+    background-image: url('assets/img/hero-poster.jpg');
     background-size: cover;
     background-position: center;
   }
@@ -1406,7 +1406,7 @@ p {
   }
 
   .hero__media {
-    background-image: url('/assets/img/hero-poster.jpg');
+    background-image: url('assets/img/hero-poster.jpg');
     background-size: cover;
     background-position: center;
   }
