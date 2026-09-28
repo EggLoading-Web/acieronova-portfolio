@@ -513,7 +513,7 @@ p {
 .hero__subtitle {
   font-size: clamp(1rem, 1.15vw, 1.125rem);
   line-height: 1.7;
-  color: var(--text-muted);
+  color: #ffffff;
   max-width: 620px;
   margin-bottom: 40px;
   animation: heroFadeUp 1s var(--ease) 0.4s both;
@@ -575,7 +575,7 @@ p {
   font-weight: 500;
   letter-spacing: 0.08em;
   text-transform: uppercase;
-  color: var(--text-dim);
+  color: #ffffff;
 }
 
 /* Indicador de scroll */
