@@ -1394,10 +1394,6 @@ p {
   /* Hero */
   .hero__video {
     display: none;
-
-   /* ... otras reglas ... */
-  -webkit-transform: translateZ(0); /* acelera la reproducción en iOS */
-  transform: translateZ(0);
 }
 
   .hero__media {
@@ -1421,6 +1417,16 @@ p {
 
   .hero__scroll-line::after {
     animation: none;
+  }
+
+   .hero__video {
+    display: none;
+  }
+
+  .hero__media {
+    background-image: url('../assets/img/hero-poster.jpg');
+    background-size: cover;
+    background-position: center;
   }
 
   /* Trust */
